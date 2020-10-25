@@ -1,14 +1,14 @@
 import React from 'react';
 import './App.css';
 import Layout from '../src/components/Layout/Layout';
-import Kingdom from './containers/KingdomBuilder/KingdomBuilder';
+import KingdomBuilder from './containers/KingdomBuilder/KingdomBuilder';
 
 function App() {
   return (
     <div>
       <Layout>
-        <Kingdom/>
-    </Layout>
+        <KingdomBuilder/>
+      </Layout>
     </div> 
   );
 }

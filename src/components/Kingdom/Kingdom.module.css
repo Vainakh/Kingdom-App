@@ -1,0 +1,12 @@
+.Kingdom {
+  background-color:black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  height: 100vh;
+}
+
+.DefaultMsg {
+  color: white;
+}

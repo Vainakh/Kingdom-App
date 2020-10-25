@@ -1,0 +1,51 @@
+.Foreign {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 8%;
+  height: 200px;
+  border: 1px solid black;
+  background: linear-gradient(#f04a4a, #f10e36);
+  color: yellow;
+  margin: 10px 10px;
+}
+
+.Defence {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 8%;
+  height: 200px;
+  border: 1px solid black;
+  background: linear-gradient(#F08E4A, #e27b36);
+  color: green;
+  margin: 10px 10px;
+}
+
+.Agro {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 8%;
+  height: 200px;
+  border: 1px solid black;
+  background: linear-gradient(#4a4df0, #7836e2);
+  color: red;
+  margin: 10px 10px;
+}
+
+.Space {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 8%;
+  height: 200px;
+  border: 1px solid black;
+  background: linear-gradient(#87f04a, #36e25b);
+  color: yellow;
+  margin: 10px 10px;
+}
